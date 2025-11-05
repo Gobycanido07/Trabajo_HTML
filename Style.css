@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(44, 42, 42);
+}
+
+header {
+    background-color: black;
+}
+
+.logo {
+    width: 220px;
+    height: 100px;
+}
+
+.TituloPagina {
+    width: 400px;
+    height: 100px;
+}
+
+
+.contenido {
+    color: white;
+    font-style: arial;
+
+}
+
+#inicio {
+    color: white;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 500px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 8px;
+}
+
+.textoLore {
+    font-size: larger;
+}
+
+.presentaciónPagina{
+    font-size: larger;
+}
